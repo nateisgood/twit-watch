@@ -1,3 +1,6 @@
+# Data files
+some_data/
+
 # Python
 __pycache__/
 
