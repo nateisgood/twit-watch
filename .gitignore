@@ -3,7 +3,6 @@ some_data/
 
 # Python
 __pycache__/
-data_grabber.py
 
 # R
 # to be added
