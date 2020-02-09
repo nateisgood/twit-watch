@@ -19,12 +19,3 @@ creds = load_creds()
 api = twitter.Api(**creds)
 
 results = api.GetSearch('Bojack Horseman')
-
-
-#%%
-obj = {
-    'consumer_key': 'lEU4diypFEoBnbUg6tVoPOVBz',
-    'consumer_secret': 'aE2x6GYgZFPOJ19Boy6H7gGsr6RWwhhnifKgMtNIqlcGlpz17N',
-    'access_token_key': '1223115410486128641-6yyrlupiyZP1WR7nGvSe3eD5jeEXug',
-    'access_token_secret': 'Gl6yBicVf7hpKfDuidbTfY906h4fSne9O6OzLOeCamHsd'   
-}
