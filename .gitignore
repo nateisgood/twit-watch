@@ -3,6 +3,7 @@ some_data/
 
 # Python
 __pycache__/
+.spyproject/
 
 # R
 # to be added

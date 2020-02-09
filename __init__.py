@@ -1,12 +1,14 @@
 """
 author: nate
 """
+#%%
 import pandas as pd
 import json
 import os
+import re
 
-fns = [fn for fn in os.listdir('some_data/av_club/')]
-fns.sort()
+fn = 'some_data/av_club.json'
 
-for fn in fns:
-    print(fn)
+with open(fn, 'r') as file:
+    views = json.load(file)
+    
