@@ -1,11 +1,8 @@
 # Data files
-some_data/
+local_data/
 
 #api_creds
 creds.json
-
-# creds
-creds/
 
 # venv
 venv/
