@@ -4,12 +4,8 @@ some_data/
 #api_creds
 creds.json
 
-# Python
-__pycache__/
-.spyproject/
-
-# R
-# to be added
-
 # creds
 creds/
+
+# venv
+venv/
